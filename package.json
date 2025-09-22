@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "JavaScript",
+    "Backend"
+  ],
+  "homepage": "https://github.com/priyansh00001/trashbin#readme",
+  "bugs": {
+    "url": "https://github.com/priyansh00001/trashbin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyansh00001/trashbin.git"
+  },
+  "license": "ISC",
+  "author": "Priyansh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
