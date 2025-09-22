@@ -1,0 +1,5 @@
+export const singleQuote = false;
+export const bracketSpacing = true;
+export const tabWidth = 4;
+export const semi = true;
+export const trailingComma = "es5";
